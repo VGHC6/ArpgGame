@@ -7,6 +7,7 @@ public class enemy_movement : MonoBehaviour
 {
     private Rigidbody2D rb;
     public Transform player_transform;
+
     public float speed = 5f;//敌人移动速度
 
     public float attack_timer = 2;//攻击计时器
@@ -15,7 +16,7 @@ public class enemy_movement : MonoBehaviour
 
     public LayerMask player_mask;
     private Animator animatior;//动画控制器
-    private enemy_state state;//敌人状态
+    public enemy_state state;//敌人状态
     private Transform player;
     // Start is called before the first frame update
     void Start()
@@ -30,6 +31,7 @@ public class enemy_movement : MonoBehaviour
     void Flip()
     {//反转敌人朝向
         move_forword *= -1;
+
         transform.localScale = new Vector3(-transform.localScale.x, transform.localScale.y, transform.localScale.z);
     }
 
@@ -39,18 +41,21 @@ public class enemy_movement : MonoBehaviour
     {
         CheckForPlayer();
         //计时器增加
-        if (attack_timering > 0)
+        if (state != enemy_state.is_back)
         {
-            attack_timering -= Time.deltaTime;
-        }
-        if (state == enemy_state.is_move)
-        {
-            chansing();
-        }
-        else if (state == enemy_state.is_attack)
-        {
-            //速度为0，停止移动
-            rb.velocity = Vector2.zero;
+            if (attack_timering > 0)
+            {
+                attack_timering -= Time.deltaTime;
+            }
+            if (state == enemy_state.is_move)
+            {
+                chansing();
+            }
+            else if (state == enemy_state.is_attack)
+            {
+                //速度为0，停止移动
+                rb.velocity = Vector2.zero;
+            }
         }
     }
     void chansing()
@@ -77,7 +82,7 @@ public class enemy_movement : MonoBehaviour
                 attack_timering = attack_timer;
                 change_state(enemy_state.is_attack);
             }
-            else if (Vector2.Distance(transform.position, player_transform.position) > 1)
+            else if (Vector2.Distance(transform.position, player_transform.position) > 1 && state != enemy_state.is_attack)
             {
                 change_state(enemy_state.is_move);
             }
@@ -88,7 +93,7 @@ public class enemy_movement : MonoBehaviour
         }
     }
 
-    private void change_state(enemy_state newState)
+    public void change_state(enemy_state newState)
     {
         //改变敌人状态
         if (state == enemy_state.is_stand)
@@ -127,6 +132,7 @@ public class enemy_movement : MonoBehaviour
     {
         is_move,
         is_stand,
-        is_attack
+        is_attack,
+        is_back
     }
 }
