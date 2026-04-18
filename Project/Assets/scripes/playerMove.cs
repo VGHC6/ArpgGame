@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEditor.Tilemaps;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class playerMove : MonoBehaviour
 {
@@ -54,16 +55,21 @@ public class playerMove : MonoBehaviour
 
     public void Knockback(Transform position, float knockbackForce)
     {
-        isback = true;//设置被击退状态
+        if (!gameObject.activeInHierarchy) return; // 确保对象是活动的
+
+        isback = true;
         Vector2 knockbackDirection = (transform.position - position.position).normalized;
-        rb.velocity = knockbackDirection * knockbackForce;//设置击退速度
+        rb.velocity = knockbackDirection * knockbackForce;
         StartCoroutine(back_counter());
     }
 
     IEnumerator back_counter()
     {
-        yield return new WaitForSeconds(1);//等待1秒
-        rb.velocity = Vector2.zero;//停止移动
-        isback = false;//取消被击退状态
+        yield return new WaitForSeconds(1);
+        if (gameObject.activeInHierarchy) // 仅在对象活动时执行后续逻辑
+        {
+            rb.velocity = Vector2.zero;
+            isback = false;
+        }
     }
 }

@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|b:\\\u6587\u6863\\unity\\arpggame\\project\\assets\\scripes\\player_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|b:\\\u6587\u6863\\unity\\arpggame\\project\\assets\\scripes\\update_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\update_level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\player_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\player_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|b:\\\u6587\u6863\\unity\\arpggame\\project\\assets\\scripes\\enemt_back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemt_back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\enemy_heath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemy_heath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\enemy_heath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemy_heath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemy_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\enemy_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemy_combat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\enemt_back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\enemt_back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|b:\\\u6587\u6863\\unity\\arpggame\\project\\assets\\scripes\\state_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\state_ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\state_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripes\\state_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B9FF267-005F-A3BF-219E-FEAE2D8C894F}|Assembly-CSharp.csproj|B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\assets\\scripes\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,30 +58,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "update_level.cs",
+              "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\update_level.cs",
+              "RelativeDocumentMoniker": "Assets\\scripes\\update_level.cs",
+              "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\update_level.cs",
+              "RelativeToolTip": "Assets\\scripes\\update_level.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T18:39:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "state_ui.cs",
+              "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\state_ui.cs",
+              "RelativeDocumentMoniker": "Assets\\scripes\\state_ui.cs",
+              "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\state_ui.cs",
+              "RelativeToolTip": "Assets\\scripes\\state_ui.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvwwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T17:58:42.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "enemt_back.cs",
               "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\enemt_back.cs",
               "RelativeDocumentMoniker": "Assets\\scripes\\enemt_back.cs",
               "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\enemt_back.cs",
               "RelativeToolTip": "Assets\\scripes\\enemt_back.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxsAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvwwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T03:25:01.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "player_combat.cs",
               "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\player_combat.cs",
               "RelativeDocumentMoniker": "Assets\\scripes\\player_combat.cs",
               "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\player_combat.cs",
               "RelativeToolTip": "Assets\\scripes\\player_combat.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAywCAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T16:15:46.813Z",
               "EditorCaption": ""
@@ -82,14 +120,14 @@
               "RelativeDocumentMoniker": "Assets\\scripes\\enemy_heath.cs",
               "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\enemy_heath.cs",
               "RelativeToolTip": "Assets\\scripes\\enemy_heath.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAADwvxQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T03:04:00.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "enemy_movement.cs",
               "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\enemy_movement.cs",
               "RelativeDocumentMoniker": "Assets\\scripes\\enemy_movement.cs",
@@ -108,13 +146,39 @@
               "RelativeDocumentMoniker": "Assets\\scripes\\enemy_combat.cs",
               "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\enemy_combat.cs",
               "RelativeToolTip": "Assets\\scripes\\enemy_combat.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-10T03:12:58.352Z"
+              "WhenOpened": "2026-04-10T03:12:58.352Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
+              "Title": "playerMove.cs",
+              "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\playerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\scripes\\playerMove.cs",
+              "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\playerMove.cs",
+              "RelativeToolTip": "Assets\\scripes\\playerMove.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T03:03:12.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "state_manager.cs",
+              "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\state_manager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripes\\state_manager.cs",
+              "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\state_manager.cs",
+              "RelativeToolTip": "Assets\\scripes\\state_manager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T18:51:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "playerHeath.cs",
               "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\playerHeath.cs",
               "RelativeDocumentMoniker": "Assets\\scripes\\playerHeath.cs",
@@ -126,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Elevation_exit.cs",
               "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\Elevation_exit.cs",
               "RelativeDocumentMoniker": "Assets\\scripes\\Elevation_exit.cs",
@@ -138,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Elevation.cs",
               "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\Elevation.cs",
               "RelativeDocumentMoniker": "Assets\\scripes\\Elevation.cs",
@@ -147,18 +211,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-08T14:26:09.527Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "playerMove.cs",
-              "DocumentMoniker": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\playerMove.cs",
-              "RelativeDocumentMoniker": "Assets\\scripes\\playerMove.cs",
-              "ToolTip": "B:\\\u6587\u6863\\unity\\ArpgGame\\Project\\Assets\\scripes\\playerMove.cs",
-              "RelativeToolTip": "Assets\\scripes\\playerMove.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-07T03:03:12.659Z"
             }
           ]
         }
